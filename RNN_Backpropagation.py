@@ -1,7 +1,7 @@
 
 
 
-RNN is a type of neural network used for sequential data like text, speech, or time series.
+#RNN is a type of neural network used for sequential data like text, speech, or time series.
 
 import numpy as np
 
