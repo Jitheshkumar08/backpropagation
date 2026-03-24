@@ -1,7 +1,6 @@
 
 
-#This code shows how a single neuron works.
-It takes an input, predicts an output, calculates error, and then improves itself by updating the weight.
+#This code shows how a single neuron works.It takes an input, predicts an output, calculates error, and then improves itself by updating the weight.
 
 
 import numpy as np
