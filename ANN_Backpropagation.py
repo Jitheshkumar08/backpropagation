@@ -65,4 +65,4 @@ W = W - lr * grad
 print("Updated Weight:", W)
 
 # Output:
-# [[0.65887]]  (approx)
+# [[0.5887]]  (approx)
