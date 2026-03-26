@@ -1,6 +1,6 @@
 
 
-#This code shows how a single neuron works.It takes an input, predicts an output, calculates error, and then improves itself by updating the weight.
+#It takes an input, predicts an output, calculates error, and then improves itself by updating the weight.
 
 
 import numpy as np
@@ -36,7 +36,7 @@ print("Predicted Output:", y_pred)
 # Output:
 # [[0.62245933]]
 
-# Explanation:
+
 # sigmoid(0.5) = 0.622 → predicted value
 
 # Loss calculation (MSE) → measures error
@@ -46,7 +46,7 @@ print("Loss:", loss)
 # Output:
 # [[0.0713]]  (approx)
 
-# Explanation:
+
 # Error = (1 - 0.622)^2 / 2 ≈ 0.0713
 
 # Backpropagation → find gradient (error direction)
