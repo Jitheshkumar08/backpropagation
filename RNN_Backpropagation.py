@@ -19,6 +19,7 @@ print("Initial Wh:", Wh)
 # Initial hidden state → starts with zero (no memory)
 h_prev = 0
 hidden_states = []
+
 # Input sequence → sequential data (like time steps)
 inputs = [1, 2, 3]
 
