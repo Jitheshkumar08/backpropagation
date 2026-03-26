@@ -14,8 +14,8 @@ def sigmoid_derivative(x):
     return x * (1 - x)
 
 # Input and expected output
-X = np.array([[1]])   # input value
-y = np.array([[1]])   # target value
+X = np.array([[1]])   
+y = np.array([[1]])   
 
 # Initialize weight and bias
 W = np.array([[0.5]])  # starting weight
