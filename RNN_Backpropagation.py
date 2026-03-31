@@ -5,7 +5,7 @@
 
 import numpy as np
 
-# Initialize weights → random values for input and hidden connections
+# Initialize weights 
 Wx = 0.5    # (example value instead of random for explanation)
 Wh = 0.3
 
